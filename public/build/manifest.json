@@ -1,0 +1,80 @@
+{
+  "node_modules/@fontsource/nunito/files/nunito-cyrillic-400-normal.woff": {
+    "file": "assets/nunito-cyrillic-400-normal-97bcb68f.woff",
+    "src": "node_modules/@fontsource/nunito/files/nunito-cyrillic-400-normal.woff"
+  },
+  "node_modules/@fontsource/nunito/files/nunito-cyrillic-400-normal.woff2": {
+    "file": "assets/nunito-cyrillic-400-normal-ce5142e3.woff2",
+    "src": "node_modules/@fontsource/nunito/files/nunito-cyrillic-400-normal.woff2"
+  },
+  "node_modules/@fontsource/nunito/files/nunito-cyrillic-ext-400-normal.woff": {
+    "file": "assets/nunito-cyrillic-ext-400-normal-1d745188.woff",
+    "src": "node_modules/@fontsource/nunito/files/nunito-cyrillic-ext-400-normal.woff"
+  },
+  "node_modules/@fontsource/nunito/files/nunito-cyrillic-ext-400-normal.woff2": {
+    "file": "assets/nunito-cyrillic-ext-400-normal-29a4d00e.woff2",
+    "src": "node_modules/@fontsource/nunito/files/nunito-cyrillic-ext-400-normal.woff2"
+  },
+  "node_modules/@fontsource/nunito/files/nunito-latin-400-normal.woff": {
+    "file": "assets/nunito-latin-400-normal-a83a13e0.woff",
+    "src": "node_modules/@fontsource/nunito/files/nunito-latin-400-normal.woff"
+  },
+  "node_modules/@fontsource/nunito/files/nunito-latin-400-normal.woff2": {
+    "file": "assets/nunito-latin-400-normal-5e2f97ea.woff2",
+    "src": "node_modules/@fontsource/nunito/files/nunito-latin-400-normal.woff2"
+  },
+  "node_modules/@fontsource/nunito/files/nunito-latin-ext-400-normal.woff": {
+    "file": "assets/nunito-latin-ext-400-normal-2ab34252.woff",
+    "src": "node_modules/@fontsource/nunito/files/nunito-latin-ext-400-normal.woff"
+  },
+  "node_modules/@fontsource/nunito/files/nunito-latin-ext-400-normal.woff2": {
+    "file": "assets/nunito-latin-ext-400-normal-a8aed46d.woff2",
+    "src": "node_modules/@fontsource/nunito/files/nunito-latin-ext-400-normal.woff2"
+  },
+  "node_modules/@fontsource/nunito/files/nunito-vietnamese-400-normal.woff": {
+    "file": "assets/nunito-vietnamese-400-normal-75527a88.woff",
+    "src": "node_modules/@fontsource/nunito/files/nunito-vietnamese-400-normal.woff"
+  },
+  "node_modules/@fontsource/nunito/files/nunito-vietnamese-400-normal.woff2": {
+    "file": "assets/nunito-vietnamese-400-normal-7ed3b3e7.woff2",
+    "src": "node_modules/@fontsource/nunito/files/nunito-vietnamese-400-normal.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf": {
+    "file": "assets/fa-brands-400-e28096fa.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400-232c6f6a.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400-9174757e.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400-c27da6f8.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900-b4990d0d.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900-ae17c16a.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-9c42a155.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-bda3e8fe.css",
+    "isEntry": true,
+    "src": "resources/sass/app.scss"
+  },
+  "storage/app/public/images/assets/Home_Page.png": {
+    "file": "assets/Home_Page-58306940.png",
+    "src": "storage/app/public/images/assets/Home_Page.png"
+  }
+}
