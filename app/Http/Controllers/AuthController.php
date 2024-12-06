@@ -34,6 +34,11 @@ class AuthController extends Controller
         }
     }
 
+    public function log_acc()
+    {
+        return view('home_user');
+    }
+
     public function admin_homeGet() // home page
     {
         $user = Auth::user(); // gets the current user info

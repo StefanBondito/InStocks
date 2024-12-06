@@ -13,12 +13,12 @@
               <li><a href="/" class="nav-link px-2">Home</a></li>
               <li><a href="/about-us" class="nav-link px-2">About Us</a></li>
               <li><a href="/graphs" class="nav-link px-2">Graph</a></li>
-              <li><a href="/stocks-pred" class="nav-link px-2">Predict</a></li>
+              <li><a href="/login" class="nav-link px-2">Predict</a></li>
             </ul>
 
             <div class="col-md-3 text-end">
-              <a href="{{ route('login') }}" type="button" class="btn btn-outline-primary me-2">Login</a>
-              <a href="{{ route('signup') }}" type="button" class="btn btn-primary">Sign-up</a>
+              <a href="/login" type="button" class="btn btn-outline-primary me-2">Login</a>
+              <a href="/signup" type="button" class="btn btn-primary">Sign-up</a>
             </div>
           </header>
         </div>

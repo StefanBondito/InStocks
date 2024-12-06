@@ -25,9 +25,9 @@
 
   <div class="d-flex align-items-center py-2 bg-body-tertiary login-bg">
     <main style="max-width: 330px; padding: 1rem;" class="content w-100 m-auto">
-      <form action="/login" method="post">
+      <form>
         @csrf
-        @if(session()->has('success'))
+        {{-- @if(session()->has('success'))
           <div class="alert alert-success alert-dismissable fade show" role="alert">
             <strong>{{ session('success') }}</strong>
             <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
@@ -38,7 +38,7 @@
             <strong>{{ session('loginError') }}</strong>
             <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
           </div>
-        @endif
+        @endif --}}
         <div class="card px-4 py-2" style="width: 20rem">
             <div class="text-center">
                 <img class="my-2" src="/storage/images/assets/Logo.png" alt="" width="100">
@@ -63,8 +63,8 @@
             <input class="form-check-input" type="checkbox" value="remember-me" id="remember-me">
             <label class="form-check-label" for="remember-me">Remember me</label>
             </div>
-
-            <button class="btn btn-primary w-100 py-2" type="submit">Login</button>
+            <a href="/home_user" class="btn btn-primary w-100 py-2">Login
+            </a>
             <p style="text-align: center" class="mt-3 mb-3 text-body-secondary">
             Don't have an account?
             <a href="\signup">Sign up</a>

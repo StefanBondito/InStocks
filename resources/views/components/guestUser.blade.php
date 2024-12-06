@@ -1,6 +1,6 @@
        {{-- Guest Master Layout --}}
 <x-app title="{{ $title }} - InStocks">
-    <x-navbarUser :user="$user" />
+    <x-userNavbar> </x-userNavbar>
 
         <main>
             {{ $slot }}

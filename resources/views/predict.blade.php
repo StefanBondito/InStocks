@@ -1,4 +1,4 @@
-<x-guest title="Prediction">
+<x-guestUser title="Prediction">
 
 <div class="container-graph py-2 min-vh-100">
     <div class="container">
